@@ -47,7 +47,3 @@ Open a new terminal window, navigate to the frontend directory, and run:
 - YuChong Zheng
 - Emilio Lötsch
 - Dominik van de Vathorst
-
-
-## License
-Lorem Ipsum License
